@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/sahoobiswajit13" target="blank"><img src="https://img.shields.io/twitter/follow/sahoobiswajit13?logo=twitter&style=for-the-badge" alt="sahoobiswajit13" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently a **Full Stack Developer**
 
-- 💬 Ask me about **C++, React, Tailwind ,Javascript, Python, Numpy, Pandas, Power BI**
+- 💬 Ask me about **C++, React, Tailwind ,Javascript, Nodejs, Python, Numpy, Pandas, Power BI**
 
 - 📫 How to reach me **biswajitsahoo1424@gmail.com**
 
